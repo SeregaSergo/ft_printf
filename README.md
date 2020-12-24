@@ -7,4 +7,4 @@ Simbols are printed one by one without buffering.
 #Use
 -make
 
-Then you can use static library libftprintf.a witch contains function ft_printf.
+Then you can use static library libftprintf.a wich contains function ft_printf.
