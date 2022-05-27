@@ -1,5 +1,5 @@
 # ft_printf
-It's a simplified reproduction of libc printf without using standard output (supported conversions cspdiuxX%)
+It's a simplified reproduction of libc printf.
 
 This function supports the following conversions "cspdiuxX%" and flags "+0- #".
 Symbols are printed one by one without buffering.
